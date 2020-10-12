@@ -1,1 +1,1 @@
-# MySQL-Medium
+# MySQL Medium
